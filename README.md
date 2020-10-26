@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theosempaii&label=Profile%20views&color=0e75b6&style=flat" alt="theosempaii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Theo-Sempaii" alt="Theo-Sempaii" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/truetheosempaii" target="blank"><img src="https://img.shields.io/twitter/follow/truetheosempaii?logo=twitter&style=for-the-badge" alt="truetheosempaii" /></a> </p>
-
 - 🔭 I’m currently working on **Heronode and other proyects!**
 
 - 🌱 I’m currently learning **Python, TypeScript and more JavaScript!**
