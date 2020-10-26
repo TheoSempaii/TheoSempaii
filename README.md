@@ -17,3 +17,5 @@ const theo = {
    workIn: '@Heronode'
 }
 ```
+![stats](https://github-readme-stats.vercel.app/api?username=Theo-Sempaii&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Sempaii&layout=compact)
