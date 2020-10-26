@@ -17,7 +17,8 @@ const theo = {
       twitch: 'truetheosempaii',
       twitter: 'truetheosempaii'
     },
-   workIn: '@Heronode'
+   workIn: '@Heronode',
+   slogan: 'The idea is simple, and the development is the complicated part of the process!'
 }
 ```
 <hr>
