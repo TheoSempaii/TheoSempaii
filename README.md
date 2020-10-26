@@ -59,6 +59,4 @@ const theo = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theo-Sempaii&show_icons=true&locale=en&layout=compact" alt="Theo-Sempaii" /></p>
 
-<hr>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Theo-Sempaii&show_icons=true&locale=en" alt="Theo-Sempaii" /></p>
