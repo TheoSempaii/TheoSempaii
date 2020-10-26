@@ -1,12 +1,27 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theosempaii&label=Profile%20views&color=0e75b6&style=flat" alt="theosempaii" /> </p>
+<hr>
 <h1 align="center">Welcome to the diary of a novice programmer!<h1>
 
 <h3 align="center">Hi, good afternoon folks, I'm Emanuel Guzman, a little developer apprentice who manages to handle simple html, css and javascript code (Also server-side with NodeJS) ... soon looking to learn languages like Python and TypeScript.</h3>
-
 <hr>
 
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theosempaii&label=Profile%20views&color=0e75b6&style=flat" alt="theosempaii" /> </p>
+```js
+const theo = {
+  technologies: ['html','css','JavaScript','NodeJS'],
+  nation: 'Argentina',
+  age: 15, //Im a total baby.
+  social: {
+      discord: 'TheoSempaii#2500',
+      instagram: '@true.ema',
+      youTube: 'TheoSempaii',
+      email: 'emanuel250gameryt@gmail.com',
+      twitch: 'truetheosempaii',
+      twitter: 'truetheosempaii'
+    },
+   workIn: '@Heronode',
+   slogan: 'The idea is simple, and the development is the complicated part of the process!'
+}
+```
 
 <hr>
 
@@ -43,5 +58,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theo-Sempaii&show_icons=true&locale=en&layout=compact" alt="Theo-Sempaii" /></p>
+
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Theo-Sempaii&show_icons=true&locale=en" alt="Theo-Sempaii" /></p>
