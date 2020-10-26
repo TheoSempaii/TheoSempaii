@@ -1,3 +1,5 @@
+<h1 align="center">Welcome to the diary of a novice programmer!<>
+
 <h3 align="center">Hi, good afternoon folks, I'm Emanuel Guzman, a little developer apprentice who manages to handle simple html, css and javascript code (Also server-side with NodeJS) ... soon looking to learn languages like Python and TypeScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theosempaii&label=Profile%20views&color=0e75b6&style=flat" alt="theosempaii" /> </p>
