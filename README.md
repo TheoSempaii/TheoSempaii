@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to the diary of a novice programmer!
+#### Hi, good afternoon folks, I'm Emanuel Guzman, a little developer apprentice who manages to handle simple html, css and javascript code (Also server-side with NodeJS) ... soon looking to learn languages like Python and TypeScript.
 
-<!--
-**Theo-Sempaii/Theo-Sempaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const theo = {
+  technologies: ['html','css','JavaScript','NodeJS'],
+  nation: 'Argentina',
+  age: 15, //Im a total baby.
+  social: {
+      discord: 'TheoSempaii#2500',
+      instagram: '@true.ema',
+      youTube: 'TheoSempaii',
+      email: 'emanuel250gameryt@gmail.com',
+      twitch: 'truetheosempaii',
+      twitter: 'truetheosempaii'
+    },
+   workIn: '@Heronode'
+}
+```
