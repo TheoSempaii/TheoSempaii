@@ -1,6 +1,9 @@
 ## Welcome to the diary of a novice programmer!
 #### Hi, good afternoon folks, I'm Emanuel Guzman, a little developer apprentice who manages to handle simple html, css and javascript code (Also server-side with NodeJS) ... soon looking to learn languages like Python and TypeScript.
 
+
+<hr>
+
 ```js
 const theo = {
   technologies: ['html','css','JavaScript','NodeJS'],
@@ -17,5 +20,7 @@ const theo = {
    workIn: '@Heronode'
 }
 ```
+<hr>
+
 ![stats](https://github-readme-stats.vercel.app/api?username=Theo-Sempaii&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Sempaii&layout=compact)
