@@ -37,7 +37,7 @@ const theo = {
 
 - 📫 How to reach me **emanuel250gameryt@gmail.com**
 
-- ⚡ Fun fact **My whole life belongs to her!**
+- ⚡ Fun fact **My entire existence belongs to the love of my life!**
 
 <hr>
 
