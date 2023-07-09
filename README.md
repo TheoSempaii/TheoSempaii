@@ -32,9 +32,15 @@ My portfolio and data:
 - **[Turing.com][1]** 
 - **[Portfolio][3]**
 - **[Upwork][4]**
+- **[Github][5]**
+- **[Discord][6]**
+- **[Stackoverflow][7]**
 
 
 [1]: https://matching.turing.com/developer-resume/8935a1cb5e982c0cfe11870aa1abef3cf9a91b49e257e4
 [2]: https://linkedin.com/in/emanuel250
 [3]: https://cloudycoding.co/dev/emanuel
 [4]: https://www.upwork.com/freelancers/~01cabf91acb5290d5c
+[5]: https://github.com/TheoSempaii/
+[6]: https://discord.gg/njA7eu2wZc
+[7]: https://stackoverflow.com/users/20166769/emanuel-guzman
