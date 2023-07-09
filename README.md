@@ -4,8 +4,27 @@ I have been a programmer for **5 years** self-taught and only for small personal
  - Argentina Programa (UBA and UTN)
  - Catholic University of Salta
 
+```js
+const theo = {
+  technologies: ['html','css','JavaScript','NodeJS'],
+  nation: 'Argentina',
+  age: 15, //Im a total baby.
+  social: {
+      discord: 'TheoSempaii#2500',
+      instagram: '@true.ema',
+      youTube: 'TheoSempaii',
+      email: 'emanuel250gameryt@gmail.com',
+      twitch: 'truetheosempaii',
+      twitter: 'truetheosempaii'
+    },
+   workIn: '@Heronode',
+   slogan: 'The idea is simple, and the development is the complicated part of the process!'
+}
+```
+
+
 My portfolio and data:
-- **Mail:** *dev.emanuel@cloudycoding.co*
+- **Mail:** dev.emanuel@cloudycoding.co
 - **[Linkedin][2]** 
 - **[Turing.com][1]** 
 - **[Portfolio][3]**
